@@ -6,4 +6,5 @@ Dentro do git estudei alguns termos como:
 - git add
 - git commit
 - git push
-- git push
+- git pull
+- git checkout
