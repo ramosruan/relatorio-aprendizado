@@ -3,6 +3,7 @@
 Git é um software de versionamento, ele serve para criar várias alterações em um projeto e poder ter "checkpoints" em cada alteração para que se necessário, voltar um ou mais "checkpoints" atrás.
 
 Dentro do git estudei alguns termos como:
+- git clone
 - git add
 - git commit
 - git push
