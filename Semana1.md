@@ -14,4 +14,12 @@ Dentro do git estudei alguns termos como:
 
 **1._GIT CLONE_** é o que utilizamos para transferir um repositório remoto para nossa máquina, por exemplo, se estou criando um projeto aqui no meu quarto no meu PC e por algum motivo tenho que me deslocar mas ainda vou precisar fazer alterações em um projeto, eu posso usar o git clone para ter todo o projeto no meu notebook.
 
-**1._GIT ADD_** 
+**2._GIT ADD_** serve para adicionarmos um arquivo específico que foi alterado para ficar "na fila" do próximo commit que vai ser feito. Até o momento só utilizei 'git add .' para adicionar todas as mudanças feitas.
+
+**3._GIT COMMIT_** é um salvamento no seu repositório local das alterações que você fez num projeto até o momento.
+
+**4._GIT PUSH_** como o próprio termo já diz, é "empurrar" o commit para o repositório remoto, ou seja, tudo o que foi feito de alteração na minha máquina vai poder ser visto por outros integrantes envolvidos em determinado projeto ou se for um repositório púbico, para quem acessar.
+
+**5._GIT PULL_** parecido com o push porém é ao contrário, você vai utilizá-lo quando for necessário atualizar o seu repositório local, ou seja, o repositório remoto está mais atualizado (atualizado em relação a ter arquivos ou alterações que foram colocadas posteriormente) ou tem alterações que não estão na sua máquina.
+
+
