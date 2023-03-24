@@ -22,6 +22,6 @@ Dentro do git estudei alguns comandos como:
 
 **5. _GIT PULL_** parecido com o push porém é ao contrário, você vai utilizá-lo quando for necessário atualizar o seu repositório local, ou seja, o repositório remoto está mais atualizado (atualizado em relação a ter arquivos ou alterações que foram colocadas posteriormente) ou tem alterações que não estão na sua máquina.
 
-**6._GIT CHECKOUT_** utilizamos para alternar entre _branches_. Uma branch é uma ramificação da master (ou main). A maneira mais simples que consegui descrever é relacionando com linhas do tempo, a main seria a linha do tempo principal e uma _branch_ é uma ramificação dessa linha do tempo onde podem ser feitas alterações sem que afete a _main_ e que se for necessário podemos unir elas utilizando o _merge_ que nada mais é do que mesclar duas ou mais branches.
+**6. _GIT CHECKOUT_** utilizamos para alternar entre _branches_. Uma branch é uma ramificação da master (ou main). A maneira mais simples que consegui descrever é relacionando com linhas do tempo, a main seria a linha do tempo principal e uma _branch_ é uma ramificação dessa linha do tempo onde podem ser feitas alterações sem que afete a _main_ e que se for necessário podemos unir elas utilizando o _merge_ que nada mais é do que mesclar duas ou mais branches.
 
 
