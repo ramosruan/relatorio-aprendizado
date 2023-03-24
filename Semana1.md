@@ -9,3 +9,9 @@ Dentro do git estudei alguns termos como:
 - git push
 - git pull
 - git checkout
+
+## Explicando cada tópico da maneira que compreendi
+
+**1._GIT CLONE_** é o que utilizamos para transferir um repositório remoto para nossa máquina, por exemplo, se estou criando um projeto aqui no meu quarto no meu PC e por algum motivo tenho que me deslocar mas ainda vou precisar fazer alterações em um projeto, eu posso usar o git clone para ter todo o projeto no meu notebook.
+
+**1._GIT ADD_** 
