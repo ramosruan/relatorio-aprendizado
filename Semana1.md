@@ -36,3 +36,8 @@ Git é um software de versionamento, ele serve para ter a possibilidade de fazer
 **6. _GIT CHECKOUT_** utilizamos para alternar entre _branches_. Uma _branch_ é uma ramificação da master (ou main). A maneira mais simples que consegui descrever é relacionando com linhas do tempo, a main seria a linha do tempo principal e uma _branch_ é uma ramificação dessa linha do tempo onde podem ser feitas alterações sem que afete a _main_ e que se for necessário podemos unir elas utilizando o _merge_ que nada mais é do que mesclar duas ou mais branches.
 
 ---
+
+### Primeiras dificuldades
+
+Inicialmente consegui entender bem rápido para que funcionava cada comando, assisti alguns vídeos diferentes e em cada um que assistia conseguia perceber que eu entendia com mais facilidade cada vez que via algo em execução, que é aí onde chega a dificuldade que eu enfrentei. 
+Assistindo à alguns tutoriais eu me perguntava: "Mas onde eu executo esses comandos?". Eu não sabia se era no próprio terminal do Windows ou em algum outro editor de texto e foi aí que achei [um vídeo](https://www.youtube.com/watch?v=UBAX-13g8OM) que me esclareceu essa dúvida, na verdade ainda não sei se posso usar o terminal do windows mas estou usando o Git Bash e é por onde estou executando os códigos até o momento.
