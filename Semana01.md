@@ -1,5 +1,5 @@
 # Relatório de aprendizado
-## Semana 1: Git e Github
+## Semana 01: Git e Github
 Git é um software de versionamento, ele serve para ter a possibilidade de fazer várias alterações em um projeto e poder ter "checkpoints" em cada alteração para que se necessário, voltar um ou mais "checkpoints" atrás.
 
 ### Dentro do git estudei alguns comandos como:
