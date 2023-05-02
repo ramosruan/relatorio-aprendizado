@@ -1,6 +1,8 @@
 # Relatório de aprendizado
 ## Semana 02: Python
 
+* _Este relatório é referente aos estudos presentes no repositório [estudo-python](https://github.com/ramosruan/estudo-python)_
+
 ---
 ### Conteúdo estudado
 - Expressões Aritméticas
