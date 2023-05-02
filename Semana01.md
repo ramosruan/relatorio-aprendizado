@@ -1,4 +1,48 @@
-# Relatório de aprendizado
+# ENG / Learning report
+# PT-BR / Se deseja ler este documento em português, [clique aqui](#pt-br--relatório-de-aprendizado)
+## Week 01: Git and Github
+Git is an open source version control system, it makes possible to do changes on a project and those changes will not necessarily affect the main project, like if it was another timeline.
+
+### Git commands I first dealed with:
+- git clone
+- git add
+- git commit
+- git push
+- git pull
+- git checkout
+
+### Explaining the commands
+---
+
+**1. _GIT CLONE_** is used to transfer a remote repository to our machine, for example, if I am builiding a project here in my bedroom, on my desktop and for some reason I have to move to other place but still gonna do changes on this same project I can use git clone to have the whole project on my laptop.
+
+---
+
+**2. _GIT ADD_** is used to add a specific file that was changed to stay on the "queue" for the next commit that will be made. I've only used 'git add .' to add all changes done. 
+
+---
+
+**3. _GIT COMMIT_** is a save of the changes on the local repository that was made on a project.
+
+---
+
+**4. _GIT PUSH_** all the commits are transfered for the remote repository, so all the member of a project can access the up to date changes.
+
+---
+
+**5. _GIT PULL_** is the opposite of git push, you are going to use this one to update the local repository, that is, the remote repository have changes that is the local one doesn't have.
+
+---
+
+**6. _GIT CHECKOUT_** is used to alternate between the _branches_.
+
+### First difficulties
+
+Initially I managed to understand very quickly what each command work for, I watched a few different videos and in each one I could see that I understood more easily every time I saw something running, which is where the difficulty I faced comes.
+Watching some tutorials I asked myself: "But where do I execute these commands?". I didn't know if it was in the Windows terminal itself or in some other text editor and that's when I found [a video](https://www.youtube.com/watch?v=UBAX-13g8OM) that clarified this doubt for me, actually I still don't know if I can use the windows terminal but I'm using Git Bash and that's where I'm running the codes so far.
+
+
+# PT-BR / Relatório de aprendizado
 ## Semana 01: Git e Github
 Git é um software de versionamento, ele serve para ter a possibilidade de fazer várias alterações em um projeto e poder ter "checkpoints" em cada alteração para que se necessário, voltar um ou mais "checkpoints" atrás.
 
@@ -25,7 +69,7 @@ Git é um software de versionamento, ele serve para ter a possibilidade de fazer
 
 ---
 
-**4. _GIT PUSH_** como o próprio termo já diz, é "empurrar" o commit para o repositório remoto, ou seja, tudo o que foi feito de alteração na minha máquina vai poder ser visto por outros integrantes envolvidos em determinado projeto ou se for um repositório púbico, para quem acessar.
+**4. _GIT PUSH_** como o próprio termo já diz, é "empurrar" o commit para o repositório remoto, ou seja, tudo o que foi feito de alteração na minha máquina vai poder ser visto por outros integrantes envolvidos em determinado projeto ou se for um repositório público, para quem acessar.
 
 ---
 
