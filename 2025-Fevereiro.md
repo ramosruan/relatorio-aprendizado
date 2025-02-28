@@ -4,7 +4,7 @@
 Como fiquei aproximadamente dois anos sem estudar nada relacionado a programação, tive que retornar estudando tudo de novo para refrescar a memória.
 Claro que o aprendizado foi totalmente mais rápido pois algumas coisas meu cérebro conseguia relembrar com certa facilidade, já outras... Não.
     
-    Voltei para o começo de tudo: Git e GitHub, Git init; commit; push; pull; clone; merge... Enfim, tive que reaprender a como mexer nos repositórios corretamente.
+Voltei para o começo de tudo: Git e GitHub, Git init; commit; push; pull; clone; merge... Enfim, tive que reaprender a como mexer nos repositórios corretamente.
 Dessa vez optei por utilizar o GitHub Desktop e não o Git BASH. É muito mais simples e intuitivo, mas ainda pretendo usar um pouco o Git BASH para pelo menos ter o conhcimento básico.
 
 ### Dificuldades no processo
