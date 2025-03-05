@@ -17,4 +17,4 @@ O estudo com Python foi tão satisfatório quanto da primeira vez, quando um có
 
 ### Dificuldades
 
-A maior dificuldade que tive até agora foi com o comando whilem demorei muito para conseguir fazer o exercício de números fatoriais do módulo 4.
+A maior dificuldade que tive até agora foi com o comando **_while_**, demorei muito para conseguir fazer o exercício de números fatoriais do módulo 4.
